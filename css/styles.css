@@ -22,12 +22,12 @@ body {
 
 ::selection {
     color: #fff;
-    background: orange;
+    background: #221177;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: orange;
+    background: #221177;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
     }
 
 a {
-    color: orange;
+    color: #221177;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -93,7 +93,7 @@ background: #E24040;
 }
 
 .btn-primary {
-    background: orange;
+    background: #221177;
 }
 
 .form-control {
@@ -119,7 +119,7 @@ background: #E24040;
     bottom: 20px;
     right: 20px;
     z-index: 5;
-	background: orange;
+	background: #221177;
 }
 .topHome .fa-2x {
 font-size: 20px;
@@ -131,7 +131,7 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: orange;
+    background: #221177;
     z-index: 50;
     border-radius: 0;
     top: 0px;
@@ -139,23 +139,23 @@ margin: 4px;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: orange;
-    background-color: orange;
+    border-color: #221177;
+    background-color: #221177;
 }
 .header .navbar {
 margin: 0;
 background: transparent !important;
 }
     .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: orange;*/;
+        /*background-color: #221177;*/;
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-        background: orange;
+        background: #221177;
     }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: orange;
+    color: #221177;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -165,10 +165,10 @@ background: transparent !important;
 	color: #FFB8B8;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-color: #FFFFFF;
+color: #fffFFF;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-color: #FFFFFF;
+color: #fffFFF;
 background: none;
 }	
 .navbar-toggle {
@@ -176,7 +176,7 @@ background: none;
 /*.carousel-inner*/
 #myCarousel {
     margin-top: 50px;
-    border-bottom: 4px solid orange;
+    border-bottom: 4px solid #221177;
 }
 
 .carousel-inner > .item {
@@ -193,7 +193,7 @@ background: none;
         font-size: 45px;
         padding: 10px 15px;
         background: rgba(128, 180, 33, 0.80);
-        color: #FFFFFF;
+        color: #fffFFF;
         text-shadow: none;
         font-weight: bold;
         display: inline-block;
@@ -208,7 +208,7 @@ background: none;
 
 .actionPanel {
     padding: 25px 0;
-    background: orange;
+    background: #221177;
 }
 
     .actionPanel h3 {
@@ -216,7 +216,7 @@ background: none;
     }
 
 .circle {
-    background: orange;
+    background: #221177;
     height: 60px;
     width: 60px;
     border-radius: 35px;
@@ -229,11 +229,11 @@ background: none;
     padding: 16px 15px;
     line-height: 18px;
     height: 50px;
-    /*color:#CC4646;*/;
+    /*color:#221177;*/;
 }
 
 .navbar-brand b {
-    color: #fff;
+    color: white;
 	font-family: 'Pacifico', cursive;
 	font-weight:400;
 }
@@ -297,7 +297,7 @@ background: none;
     }
 
 .page-section h2 {
-    color: orange;
+    color: #221177;
 }
 
 .page-section p {
@@ -310,7 +310,7 @@ background: none;
 }
 
     .darkBg .fa {
-        color: orange;
+        color: #221177;
     }
 /*--- Banner ----*/
 .banner-container {
@@ -459,7 +459,7 @@ margin-top: 5px;
 background-color: #D6D6D6;
 }
 .progress .progress-bar {
-background-color: orange;
+background-color: #221177;
 }
 /*Skills*/
 
@@ -475,7 +475,7 @@ background-color: orange;
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: orange;
+  background-color: #221177;
   left: 50%;
   margin-left: -1.5px;
 }
@@ -493,7 +493,7 @@ background-color: orange;
   top: 20px;
   left: 50%;
   margin-left: -25px;
-  background-color: orange;
+  background-color: #221177;
   z-index: 36;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
@@ -518,7 +518,7 @@ display: inherit;
   top: 40px;
 }
 #timeline .timeline-badge.timeline-filter-movement a span {
-  color: orange;
+  color: #221177;
   font-size: 1.3em;
   top: -1px;
 }
@@ -531,13 +531,13 @@ display: inherit;
   margin-left: -18px;
 }
 #timeline .timeline-badge.timeline-future-movement a span {
-  color: orange;
+  color: #221177;
   font-size: .9em;
   top: 2px;
   left: 1px;
 }
 #timeline .timeline-movement {
-  border-bottom: dashed 1px orange;
+  border-bottom: dashed 1px #221177;
   position: relative;
 }
 #timeline .timeline-movement.timeline-movement-top {
@@ -549,7 +549,7 @@ display: inherit;
 #timeline .timeline-movement .timeline-item .timeline-panel {
   border: 1px solid #d4d4d4;
   border-radius: 3px;
-  background-color: #FFFFFF;
+  background-color: #fffFFF;
   color: #666;
   padding: 10px;
   position: relative;
@@ -624,7 +624,7 @@ display: inherit;
 .team-member .member-img img {
     max-width: 250px;
     margin: 0 auto;
-    border: 1px solid orange;
+    border: 1px solid #221177;
 }
 
 .team-member h4 {
@@ -708,12 +708,12 @@ nav#filter {
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
-        border: 1px solid orange;
+        border: 1px solid #221177;
         text-decoration: none;
     }
 
 .current {
-    background: orange;
+    background: #221177;
     color: #fff;
 }
 
@@ -849,7 +849,7 @@ body {
     padding: 0;
     width: 200px;
     background: #ffffff;
-    box-shadow: 0 10px 10px -10px #000000;
+    box-shadow: 0 10px 10px -10px #fff;
 }
 
     #navigation > li {
@@ -860,7 +860,7 @@ body {
 
         #navigation > li > a {
             margin: 1px;
-            color: #000000;
+            color: #fff;
             background: #cccccc;
             display: block;
             padding: 5px;
@@ -892,7 +892,7 @@ body {
 footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
-    background: #fff;
+    background: #000000;
 }
 
 .social a:hover {
@@ -1120,7 +1120,7 @@ footer {
     background: #3fbf79;
     padding: 30px 0px;
     margin: 10px;
-    color: #FFF;
+    color: #fff;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
